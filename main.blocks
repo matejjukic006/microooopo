@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="!EVyTk4Z|4hB[.rk{x#!">Ruka</variable></variables><block type="device_button_event" id="bj0-#8AQb.T188ribOqW" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="V:bnYTEZ7=?SdNun@*)6"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="ZCOma]C@rO%Dr{_.WP%0" x="295" y="-7"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="nT{Zye3xdSyVh|dWT`}P"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="-C7BJ*(-F2,B#_wL9_dS" x="177" y="359"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="ROt!U:GYa+$-+}wSJ:C;"><value name="text"><shadow type="text" id="vlgs5U[NFf5zBCR[BCyX"><field name="TEXT">HELLO!</field></shadow></value></block></statement></block><block type="device_gesture_event" id="ta6y4q)$O9_BCPbBVq-n" x="-78" y="389"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="]TTop9O/4gTv8y:Xm-?n"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
